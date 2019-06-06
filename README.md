@@ -99,11 +99,4 @@ Asi es la estructura de archivos divididos por tipo de archivo.
 <br /><br />
 
 
-Base de datos en Firebase
-<br /><br />
-![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/EstructuraJsonenfirebase.png?alt=media&token=8e1228e3-a93e-436e-a23b-bf2f8bf2b1af)
-<br />
-Asi se ve el archivo json en la base de datos de firebase. Realtime Database.
-
-<br /><br />
 
