@@ -69,9 +69,9 @@ Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la
 <br /><br />
 ![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/registro%20de%20operaciones.png?alt=media&token=826efc38-7b03-4292-83cf-ea1eb3dd6fa6)
 <br />
-En esta sección podemos consultar saldo utilizando solamente la llave publica de cada cuenta.
+En esta sección podemos consultar las transacciones realizadas encriptadas.
 <br /><br />
-![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/consultarSaldojs.png?alt=media&token=634816d1-59fa-4be2-8510-2e09cfecabfc)
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/registro%20de%20operaciones2.png?alt=media&token=7526ce48-746b-4292-be39-08339b85da51)
 <br />
 Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la cuenta a la que se va a consultar, en este caso se pide el saldo de las monedas de el usuario, este codigo es el mismo para los billetes del usuario.
 
@@ -81,11 +81,11 @@ Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la
 <br /><br />
 ![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/decodificador.png?alt=media&token=dcce0abb-17b6-40c1-82d0-8523e53e22ab)
 <br />
-En esta sección podemos consultar saldo utilizando solamente la llave publica de cada cuenta.
+En esta sección podemos desencriptar una transaccion y saber quien fue el emisor,receptor y la cantidad que se envio.
 <br /><br />
-![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/consultarSaldojs.png?alt=media&token=634816d1-59fa-4be2-8510-2e09cfecabfc)
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/decodificador2.png?alt=media&token=e36a5614-e0d5-4fb3-a08f-620c395bc3bd)
 <br />
-Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la cuenta a la que se va a consultar, en este caso se pide el saldo de las monedas de el usuario, este codigo es el mismo para los billetes del usuario.
+Aqui se puede apreciar el codigo Javascript que usa los metodos para renderizar el HTML y descrifrar la transaccion.
 
 <br /><br />
 
