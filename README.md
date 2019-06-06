@@ -59,7 +59,7 @@ Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la
 <br />
 En esta sección podemos consultar saldo utilizando solamente la llave publica de cada cuenta.
 <br /><br />
-![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/consultarSaldojs.png?alt=media&token=634816d1-59fa-4be2-8510-2e09cfecabfc)
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/Circulacion%20de%20billetes2.png?alt=media&token=fef8effe-efdf-4d4f-94f7-50abe39f375e)
 <br />
 Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la cuenta a la que se va a consultar, en este caso se pide el saldo de las monedas de el usuario, este codigo es el mismo para los billetes del usuario.
 
