@@ -101,13 +101,9 @@ Asi es la estructura de archivos divididos por tipo de archivo.
 
 Base de datos en Firebase
 <br /><br />
-![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/decodificador.png?alt=media&token=dcce0abb-17b6-40c1-82d0-8523e53e22ab)
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/EstructuraJsonenfirebase.png?alt=media&token=8e1228e3-a93e-436e-a23b-bf2f8bf2b1af)
 <br />
-En esta sección podemos consultar saldo utilizando solamente la llave publica de cada cuenta.
-<br /><br />
-![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/consultarSaldojs.png?alt=media&token=634816d1-59fa-4be2-8510-2e09cfecabfc)
-<br />
-Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la cuenta a la que se va a consultar, en este caso se pide el saldo de las monedas de el usuario, este codigo es el mismo para los billetes del usuario.
+Asi se ve el archivo json en la base de datos de firebase. Realtime Database.
 
 <br /><br />
 
