@@ -89,5 +89,44 @@ Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la
 
 <br /><br />
 
+Estructura de Archivos
+<br /><br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/estructura%20de%20archivos.png?alt=media&token=e6a30c0e-8b60-4db0-8c07-d41f1019daa4)
+<br />
+Asi es la estructura de archivos divididos por tipo de archivo.
 
 
+<br /><br />
+
+
+Base de datos en Firebase
+<br /><br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/decodificador.png?alt=media&token=dcce0abb-17b6-40c1-82d0-8523e53e22ab)
+<br />
+En esta sección podemos consultar saldo utilizando solamente la llave publica de cada cuenta.
+<br /><br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/consultarSaldojs.png?alt=media&token=634816d1-59fa-4be2-8510-2e09cfecabfc)
+<br />
+Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la cuenta a la que se va a consultar, en este caso se pide el saldo de las monedas de el usuario, este codigo es el mismo para los billetes del usuario.
+
+<br /><br />
+
+Estructura Json de la base de datos
+<br /><br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/json1.png?alt=media&token=b13804c3-d916-4917-ae86-8b430f3a5b88)
+<br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/json2.png?alt=media&token=9670f606-c149-40c6-8424-c371d0c7bc5c)
+<br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/json3.png?alt=media&token=2d5376cf-f896-4787-9fdd-18905647520c)
+<br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/json4.png?alt=media&token=943a15e2-5e9f-4fbf-ba6a-90f1f64c737f)
+<br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/json5.png?alt=media&token=9c132b11-2ba6-4385-98fd-202fee01ed0a)
+<br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/json6.png?alt=media&token=d1cc88a2-5dc6-4928-9167-bb451b1a6b0e)
+<br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/json7.png?alt=media&token=82758e27-1a59-4f20-86d9-6db5193bdaac)
+<br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/json8.png?alt=media&token=9a794071-652a-44b3-89d7-2cb5c5f3318d)
+<br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/json9.png?alt=media&token=9a85d799-7c61-4cbe-a264-807fbbf9a7cc)
