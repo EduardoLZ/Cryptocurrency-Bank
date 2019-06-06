@@ -24,7 +24,20 @@ Aqui se puede apreciar el codigo Javascript que obtiene los datos del formulario
 ![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/transaccion.png?alt=media&token=0d1e706e-df4a-493f-bf3a-b07e96f05e63)
 <br />
 En esta sección podemos realizar transacciones entre cuentas existentes utilizando la llave publica que cada usuario tiene,para una mayor seguridad de las transacciones, cada campo valida la existencia de las llaves que se utilizaran para realizar la transaccion, si todo esto es validado correctamente, aparecera el boton para finalizar la transaccion, si el sistema detecta una llave falsa, la transaccion no puede realizarse.
-<br />
+<br /><br />
 ![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/transaccionjs.png?alt=media&token=73c44a3b-fc11-4010-a061-4b33546ef61d)
 <br />
 Aqui se puede apreciar el codigo Javascript que genera la encriptacion utilizando una variante de encriptacion cesar sumada con el metodo de encriptacion por partes.
+
+<br /><br />
+
+💵Consultar Saldo
+<br /><br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/consultarSaldo.png?alt=media&token=73ed9d41-a34b-4d22-87f6-8ed8be206267)
+<br />
+En esta sección podemos consultar saldo utilizando solamente la llave publica de cada cuenta.
+<br /><br />
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/consultarSaldojs.png?alt=media&token=634816d1-59fa-4be2-8510-2e09cfecabfc)
+<br />
+Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la cuenta a la que se va a consultar, en este caso se pide el saldo de las monedas de el usuario, este codigo es el mismo para los billetes del usuario.
+
