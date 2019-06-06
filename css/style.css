@@ -1,0 +1,5 @@
+.intro{
+    background-image: url('../img/intro2.jpg');
+   background-blend-mode: overlay;
+   background-color: rgba(0, 0, 0, 0.5);
+}
