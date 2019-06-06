@@ -55,7 +55,7 @@ Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la
 
 💲 Circulacion de billetes y monedas
 <br /><br />
-![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/consultarSaldo.png?alt=media&token=73ed9d41-a34b-4d22-87f6-8ed8be206267)
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/Circulacion%20de%20billetes.png?alt=media&token=287daaf1-b3a5-49ac-8ec1-0429f4cd3e8a)
 <br />
 En esta sección podemos consultar saldo utilizando solamente la llave publica de cada cuenta.
 <br /><br />
@@ -67,7 +67,7 @@ Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la
 
 💱 Registro de operaciones
 <br /><br />
-![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/consultarSaldo.png?alt=media&token=73ed9d41-a34b-4d22-87f6-8ed8be206267)
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/registro%20de%20operaciones.png?alt=media&token=826efc38-7b03-4292-83cf-ea1eb3dd6fa6)
 <br />
 En esta sección podemos consultar saldo utilizando solamente la llave publica de cada cuenta.
 <br /><br />
@@ -79,7 +79,7 @@ Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la
 
 🔠 Decodificador
 <br /><br />
-![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/consultarSaldo.png?alt=media&token=73ed9d41-a34b-4d22-87f6-8ed8be206267)
+![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/decodificador.png?alt=media&token=dcce0abb-17b6-40c1-82d0-8523e53e22ab)
 <br />
 En esta sección podemos consultar saldo utilizando solamente la llave publica de cada cuenta.
 <br /><br />
