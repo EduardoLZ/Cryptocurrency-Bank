@@ -57,11 +57,12 @@ Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la
 <br /><br />
 ![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/Circulacion%20de%20billetes.png?alt=media&token=287daaf1-b3a5-49ac-8ec1-0429f4cd3e8a)
 <br />
-En esta sección podemos consultar saldo utilizando solamente la llave publica de cada cuenta.
+En esta sección podemos consultar el dueño actual y el dueño anterior de la moneda y/o billete en circulacion.
 <br /><br />
 ![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/Circulacion%20de%20billetes2.png?alt=media&token=fef8effe-efdf-4d4f-94f7-50abe39f375e)
 <br />
-Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la cuenta a la que se va a consultar, en este caso se pide el saldo de las monedas de el usuario, este codigo es el mismo para los billetes del usuario.
+Aqui se puede apreciar el codigo Javascript que recibe los registros de las monedas y billetes para poder obtener el dueño actual y el dueño anterior.
+
 
 <br /><br />
 
@@ -73,7 +74,7 @@ En esta sección podemos consultar las transacciones realizadas encriptadas.
 <br /><br />
 ![alt text](https://firebasestorage.googleapis.com/v0/b/ingconocimiento-3015f.appspot.com/o/registro%20de%20operaciones2.png?alt=media&token=7526ce48-746b-4292-be39-08339b85da51)
 <br />
-Aqui se puede apreciar el codigo Javascript que recibe los datos del saldo de la cuenta a la que se va a consultar, en este caso se pide el saldo de las monedas de el usuario, este codigo es el mismo para los billetes del usuario.
+Aqui se puede apreciar el codigo Javascript que recibe los registros de las transacciones realizadas y los renderiza en el html para que sean visibles al usuario.
 
 <br /><br />
 
